@@ -1,0 +1,53 @@
+.profile_image {
+   
+    width: 300px;
+    height: 300px;
+    height: auto;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.center {
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+h4 {
+    padding-left: 1vw;
+}
+
+.inputContainer {
+    height: 22px;
+    font-size: 18px;
+    width: 20vw;
+}
+
+.textAreaContainer {
+    height: 10vh;
+    font-size: 18px;
+    width: 20vw;
+}
+
+.userVolunteerData {
+    border: 1px solid black !important;
+    width: 65vw;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding-bottom: 5vh;
+}
+
+
+.banButton {
+    font-weight: bold;
+    font-size:26px; 
+    padding:1vmax;
+    cursor: pointer;
+}
+

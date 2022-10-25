@@ -1,0 +1,69 @@
+.dropdownLog {
+    border: 1px solid black !important;
+    border-radius: 10px;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    margin-top: 5vh;
+    
+}
+
+.sideNav {
+    height: 100%;  
+    width: 15%;  
+    position: fixed; 
+    z-index: 1; 
+    top: 80px; 
+    left: 0; 
+    background-color:#232323; 
+    transition: .5s ease; 
+    overflow-x: hidden; 
+    padding-top: 20px; 
+    align-items: center;
+}
+
+.logyear {
+    color:white;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: left;
+    text-indent: 15%;
+    cursor: pointer;
+}
+
+.logyear:hover {
+    color:lightgray;
+}
+
+.logmonth {
+    color:white;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: left;
+    text-indent: 23%;
+    cursor: pointer;
+}
+
+.logmonth:hover {
+    color:lightgray;
+}
+
+.logday {
+    color:white;
+    cursor: pointer;
+}
+
+.logday:hover {
+    color:lightgray;
+}
+
+.isClicked {
+    color:gray;
+}
+
+.logheader{
+    background-color: dimgray;
+    width: 100%;
+    color: white;
+}

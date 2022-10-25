@@ -1,0 +1,830 @@
+{
+
+    "Audi" : {
+
+        "e-tron": 
+            {
+                "category": ["SUV","Sportback"]
+            }
+        ,
+        "e-tron GT": 
+            {
+                "category": ["Sportback"]
+            }
+        ,
+        "A1": 
+            {
+                "category": ["Sportback"]
+            }
+        ,
+        "A3": 
+            {
+                "category": ["Sportback"]
+            }
+            ,
+        "A4": 
+            {
+                "category": ["Sedan","Avant"]
+            }
+            ,
+        "A5": 
+            {
+                "category": ["Sportback","Coupé"]
+            }
+            ,
+        "A6": 
+            {
+                "category": ["Sedan","Avant"]
+            }
+            ,
+        "A7": 
+            {
+                "category": ["Sportback"]
+            }
+        ,
+        "A8": 
+            {
+                "category": ["Sedan"]
+            }
+        ,
+        "Q2": 
+            {
+                "category": ["SUV"]
+            }
+            ,
+        "Q3": 
+            {
+                "category": ["SUV","Sportback"]
+            }
+            ,
+        "Q5": 
+            {
+                "category": ["SUV"]
+            }
+            ,
+        "Q7": 
+            {
+                "category": ["SUV"]
+            }
+        ,
+        "Q8": 
+            {
+                "category": ["SUV"]
+            }
+        ,
+        "TT": 
+            {
+                "category": ["Coupé","Roadster"]
+            }
+    },
+    "BMW" : {
+
+        "220i Gran Coupé": 
+            {
+                "category": ["Gran Coupé"]
+            }
+        ,
+        "BMW 3 Series": 
+            {
+                "category": ["Sedan"]
+            },
+        "430i": 
+            {
+                "category": ["Coupé"]
+            }
+            ,
+        "4 Series Convertible": 
+            {
+                "category": ["Convertible"]
+            }
+            ,
+        "i4": 
+            {
+                "category": ["Coupé"]
+            }
+            ,
+        "BMW 5 Series": 
+            {
+                "category": ["Sedan"]
+            }
+        ,
+        "630i GT": 
+            {
+                "category": ["Gran Turismo"]
+            }
+        ,
+        "BMW 7 Series": 
+            {
+                "category": ["Sedan"]
+            }
+            ,
+        "X1": 
+            {
+                "category": ["Roadster"]
+            }
+            ,
+        "X3": 
+            {
+                "category": ["Sedan"]
+            }
+            ,
+        "iX": 
+            {
+                "category": ["Sport Activity Vehicle"]
+            }
+        ,
+        "iX3": 
+            {
+                "category": ["Sedan"]
+            }
+        ,
+        "X4": 
+            {
+                "category": ["Sport Activity Coupé"]
+            }
+        ,
+        "X4 M": 
+            {
+                "category": ["Sport Activity Coupé"]
+            }
+        ,
+        "X5": 
+            {
+                "category": ["Sport Activity Coupé"]
+            }
+            ,
+        "X6": 
+            {
+                "category": ["Sport Activity Vehicle"]
+            }
+            ,
+        "X7": 
+            {
+                "category": ["Sport Activity Vehicle"]
+            }
+             ,
+        "Z4": 
+            {
+                "category": ["Roadster"]
+            }
+             ,
+        "M4": 
+            {
+                "category": ["Coupé"]
+            }
+    }
+    ,
+    "Ford" : {
+
+        "Fiesta": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Focus": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Mustang": 
+            {
+                "category": ["Sport"]
+            },
+        "Everest": 
+            {
+                "category": ["SUV"]
+            },
+        "Ranger": 
+            {
+                "category": ["Pickup truck"]
+            },
+        "Raptor X": 
+            {
+                "category": ["Pickup truck"]
+            },
+        "FX4MAX": 
+            {
+                "category": ["Pickup truck"]
+            }
+    },
+    "GWM [HAVAL]" : {
+
+        "H6 HEV": 
+            {
+                "category": ["SUV"]
+            },
+        "Jolion HEV": 
+            {
+                "category": ["SUV"]
+            },
+        "H6 PHEV": 
+            {
+                "category": ["SUV"]
+            }
+    },
+    "Honda" : {
+
+        "Accord": 
+            {
+                "category": ["Sedan","Coupé"]
+            },
+        "Jazz": 
+            {
+                "category": ["Hatchback"]
+            },
+        "City": 
+            {
+                "category": ["Sedan"]
+            },
+        "Civic": 
+            {
+                "category": ["Hatchback","Sedan","Coupé"]
+            },
+        "CR-Z": 
+            {
+                "category": ["Coupé"]
+            },
+        "CR-V": 
+            {
+                "category": ["SUV"]
+            },
+        "Brio": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Brio Amaze": 
+            {
+                "category": ["Sedan"]
+            },
+        "BR-V": 
+            {
+                "category": ["SUV"]
+            },
+        "Mobilio": 
+            {
+                "category": ["Mini MPV"]
+            },
+        "StepWagon Spada": 
+            {
+                "category": ["Minivan"]
+            },
+        "HR-V": 
+            {
+                "category": ["SUV"]
+            },
+        "Odyssey": 
+            {
+                "category": ["Van","Minivan"]
+            },
+        "Prelude": 
+            {
+                "category": ["Coupé"]
+            }
+    },
+    "Isuzu" : {
+
+        "D-Max": 
+            {
+                "category": ["Pickup truck"]
+            },
+        "Mu-X": 
+            {
+                "category": ["SUV"]
+            },
+        "Mu-7": 
+            {
+                "category": ["SUV"]
+            }
+    },
+    "Kia" : {
+
+        "Carnival": 
+            {
+                "category": ["Mini MPV"]
+            },
+        "Sedona": 
+            {
+                "category": ["SUV"]
+            },
+        "K2500": 
+            {
+                "category": ["Pickup truck"]
+            },
+        "Soul EV": 
+            {
+                "category": ["Hatchback"]
+            }
+    },
+    "Lexus" : {
+
+        "CT": 
+            {
+                "category": ["Hatchback"]
+            },
+        "ES": 
+            {
+                "category": ["Sedan"]
+            },
+        "IS": 
+            {
+                "category": ["Sedan"]
+            },
+        "LS": 
+            {
+                "category": ["Sedan"]
+            },
+        "LC": 
+            {
+                "category": ["Coupé"]
+            },
+        "RC": 
+            {
+                "category": ["Coupé"]
+            },
+        "NX": 
+            {
+                "category": ["SUV"]
+            },
+        "RX": 
+            {
+                "category": ["SUV"]
+            },
+        "UX": 
+            {
+                "category": ["SUV"]
+            },
+        "GX": 
+            {
+                "category": ["SUV"]
+            },
+        "LX": 
+            {
+                "category": ["SUV"]
+            },
+        "LM": 
+            {
+                "category": ["Minivan"]
+            }
+    },
+    "Mitsubishi" : {
+
+        "Outlander PHEV": 
+            {
+                "category": ["SUV"]
+            },
+        "Pajero Sport": 
+            {
+                "category": ["SUV"]
+            },
+        "Triton": 
+            {
+                "category": ["Pickup truck"]
+            },
+        "Xpander": 
+            {
+                "category": ["SUV"]
+            },
+        "Mirage": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Attrage": 
+            {
+                "category": ["Sedan"]
+            }
+    },
+    "Mazda" : {
+
+        "Mazda2": 
+            {
+                "category": ["Hatchback"]
+            },
+        "CX-3": 
+            {
+                "category": ["SUV"]
+            },
+        "CX-30": 
+            {
+                "category": ["SUV"]
+            },
+        "CX-5": 
+            {
+                "category": ["SUV"]
+            },
+        "CX-8": 
+            {
+                "category": ["SUV"]
+            },
+        "BT-50": 
+            {
+                "category": ["Pickup truck"]
+            },
+        "MX-5": 
+            {
+                "category": ["Roadster","Sport"]
+            }
+    },
+    "MG" : {
+
+        "3": 
+            {
+                "category": ["Hatchback"]
+            },
+        "HS": 
+            {
+                "category": ["SUV"]
+            },
+        "ZS": 
+            {
+                "category": ["SUV"]
+            },
+        "EP": 
+            {
+                "category": ["SUV"]
+            },
+        "CX-8": 
+            {
+                "category": ["SUV"]
+            },
+        "Extender": 
+            {
+                "category": ["Pickup truck"]
+            },
+        "5": 
+            {
+                "category": ["Compact"]
+            }
+    },
+    "Mini" : {
+
+        "3-Door Hatch": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Cooper SE": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Convertible": 
+            {
+                "category": ["Convertible"]
+            },
+        "5-Door Hatch": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Countryman": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Clubman": 
+            {
+                "category": ["Hatchback"]
+            }
+    },
+    "Mercedez Benz" : {
+
+        "EQS Saloon": 
+            {
+                "category": ["Saloons","Sedan"]
+            },
+        "A-Class Saloon": 
+            {
+                "category": ["Saloons","Sedan"]
+            },
+        "C-Class Saloon": 
+            {
+                "category": ["Saloons","Sedan"]
+            },
+        "E-Class Saloon": 
+            {
+                "category": ["Saloons","Sedan"]
+            },
+        "S-Class Saloon": 
+            {
+                "category": ["Saloons","Sedan"]
+            },
+        "GLA SUV": 
+            {
+                "category": ["SUV"]
+            },
+        "GLB SUV": 
+            {
+                "category": ["SUV"]
+            },
+        "GLC SUV": 
+            {
+                "category": ["SUV"]
+            },
+        "GLC Coupé": 
+            {
+                "category": ["SUV"]
+            },
+        "GLE SUV": 
+            {
+                "category": ["SUV"]
+            },
+        "GLS SUV": 
+            {
+                "category": ["SUV"]
+            },
+        "G-Class SUV": 
+            {
+                "category": ["SUV"]
+            },
+        "Mercedez Maybach GLS": 
+            {
+                "category": ["SUV"]
+            },
+        "C-Class Coupé": 
+            {
+                "category": ["Coupé"]
+            },
+        "E-Class Coupé": 
+            {
+                "category": ["Coupé"]
+            },
+        "CLS Coupé": 
+            {
+                "category": ["Coupé"]
+            },
+        "E-Class Cabriolet": 
+            {
+                "category": ["Carbriolet","Roadster"]
+            },
+        "Mercedez-AMG GT Roadster": 
+            {
+                "category": ["Carbriolet","Roadster"]
+            }
+    },
+    "Nissan" : {
+
+        "March": 
+            {
+                "category": ["Hatchback"]
+            },
+        "X-Trail": 
+            {
+                "category": ["SUV"]
+            },
+        "Almera": 
+            {
+                "category": ["Sedan"]
+            },
+        "Navara": 
+            {
+                "category": ["Pickup truck"]
+            },
+        "Note": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Leaf": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Teana": 
+            {
+                "category": ["Sedan"]
+            },
+        "Terra": 
+            {
+                "category": ["SUV"]
+            },
+        "GT-R": 
+            {
+                "category": ["Sport"]
+            },
+        "Caravan": 
+            {
+                "category": ["Van"]
+            }
+    },
+    "Porsche" : {
+
+        "718": 
+            {
+                "category": ["Sport","Coupé","Carbriolet"]
+            },
+        "911": 
+            {
+                "category": ["Sport","Coupé","Carbriolet"]
+            },
+        "Taycan": 
+            {
+                "category": ["Sport","Sport Saloon","Cross Turismo"]
+            },
+        "Panamera": 
+            {
+                "category": ["Sport","Sport Saloon","Executive","Sport Turismo"]
+            },
+        "Macan": 
+            {
+                "category": ["Sport","SUV"]
+            },
+        "Cayenne": 
+            {
+                "category": ["Sport","Coupé","SUV"]
+            }
+    },
+    "Rolls Royce" : {
+
+        "Phantom": 
+            {
+                "category": ["Sedan"]
+            },
+        "Ghost": 
+            {
+                "category": ["Sedan"]
+            },
+        "Wraith": 
+            {
+                "category": ["Sedan"]
+            }
+    },
+    "Subaru" : {
+
+        "Outback": 
+            {
+                "category": ["SUV","Luxury"]
+            },
+        "Forester": 
+            {
+                "category": ["SUV"]
+            },
+        "XV": 
+            {
+                "category": ["SUV"]
+            },
+        "WRX": 
+            {
+                "category": ["Sedan","Sport"]
+            }
+    },
+    "Suzuki" : {
+
+        "Swift": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Celerio": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Ertica": 
+            {
+                "category": ["MPV"]
+            },
+        "Ciaz": 
+            {
+                "category": ["Sedan"]
+            },
+        "Carry": 
+            {
+                "category": ["Pickup truck"]
+            }
+    },
+    "Toyota" : {
+
+        "Yaris": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Yaris Ativ": 
+            {
+                "category": ["Sedan"]
+            },
+        "Vios": 
+            {
+                "category": ["Sedan"]
+            },
+        "Corolla Altis": 
+            {
+                "category": ["Sedan"]
+            },
+        "CH-R": 
+            {
+                "category": ["SUV"]
+            },
+        "Corolla Cross": 
+            {
+                "category": ["SUV"]
+            },
+        "Camry": 
+            {
+                "category": ["Sedan"]
+            },
+        "GR Supra": 
+            {
+                "category": ["Sport"]
+            },
+        "Hilux Revo [Vigo]": 
+            {
+                "category": ["Sport"]
+            },
+        "Commuter": 
+            {
+                "category": ["Van"]
+            },
+        "Hiace": 
+            {
+                "category": ["Van"]
+            },
+        "Sienta": 
+            {
+                "category": ["Mini MPV"]
+            },
+        "Veloz [Avanza]": 
+            {
+                "category": ["Compact MPV"]
+            },
+        "Innova": 
+            {
+                "category": ["Compact MPV"]
+            },
+        "Fortuner": 
+            {
+                "category": ["SUV"]
+            },
+        "Majesty": 
+            {
+                "category": ["Van"]
+            },
+        "Coaster": 
+            {
+                "category": ["Minibus"]
+            },
+        "Alphard": 
+            {
+                "category": ["Minivan"]
+            }
+    },
+    "Volkswagen" : {
+
+        "Golf": 
+            {
+                "category": ["Hatchback"]
+            },
+        "Golf 8": 
+            {
+                "category": ["Compact Car"]
+            },
+        "e-Golf": 
+            {
+                "category": ["Compact Car"]
+            },
+        "Polo": 
+            {
+                "category": ["Subcompact Car"]
+            },
+        "New Arteon": 
+            {
+                "category": ["Compact Car"]
+            },
+        "Arteon Shooting Brake": 
+            {
+                "category": ["Compact Car"]
+            },
+        "Transporter Shuttle": 
+            {
+                "category": ["Van"]
+            },
+        "Caravelle": 
+            {
+                "category": ["Van"]
+            }
+    },
+    "Volvo" : {
+
+        "C40": 
+            {
+                "category": ["Crossover"]
+            },
+        "XC40": 
+            {
+                "category": ["SUV"]
+            },
+        "XC60": 
+            {
+                "category": ["SUV"]
+            },
+        "XC90": 
+            {
+                "category": ["SUV"]
+            },
+        "S60": 
+            {
+                "category": ["Sedan"]
+            },
+        "S90": 
+            {
+                "category": ["Sedan"]
+            },
+        "V60": 
+            {
+                "category": ["Estate"]
+            },
+        "Caravelle": 
+            {
+                "category": ["Van"]
+            }
+    }
+}

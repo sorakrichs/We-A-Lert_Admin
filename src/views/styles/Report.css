@@ -1,0 +1,133 @@
+.report_image {
+   
+    width: 200px;
+    height: auto;
+    
+
+}
+
+.user_report_image {
+   
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+
+.dropdownMenu {
+    border: 1px solid black !important;
+    border-radius: 10px;
+    
+
+}
+
+.dropdown {
+    border: 1px solid black !important;
+    border-radius: 10px;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    
+}
+
+.finish {
+    color: green;
+}
+
+.inprocess {
+    color: goldenrod;
+}
+
+.cancel {
+    color: red;
+}
+
+.nonvalidate {
+    color: black;
+}
+
+.litigants {
+    width: 70vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    margin-top: 10vh;
+    margin: auto;
+}
+
+.userData {
+    border: 1px solid black !important;
+    width: 50vw;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.reportData {
+    border: 1px solid black !important;
+    width: 65vw;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.reportImageData {
+    border: 1px solid black !important;
+    width: 65vw;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.mapdata {
+    border: 1px solid blue !important;
+}
+
+.addressData {
+    margin-top: 5vh;
+    border: 1px solid black !important;
+    border-radius: 20px;
+}
+
+.reportheader{
+    background-color: rgb(58, 68, 68);
+    width: 100%;
+    color: white;
+}
+
+.addButton{
+    background-color: gray;
+    width: 10vw;
+    padding: 1vmin;
+    border-radius: 10px;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    cursor: pointer;
+}
+
+.submitButton{
+    background-color: aquamarine;
+    width: 20vw;
+    padding: 1vmax;
+    border-radius: 10px;
+    margin: 1vmax;
+    cursor: pointer;
+}
+
+.disasterAddress{
+    border: 1px solid black !important;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    justify-items:center;
+    width: 65vw;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    margin-top: 5vh;
+
+}
+
+.removeModal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,54 @@
+div {
+    text-align: center;
+}
+
+.user {
+
+    background-color: antiquewhite;
+    border-style: double;
+    align-items: center;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 1vh;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding:0;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.selectUser {
+    color:white;
+    font-weight: bolder;
+    font-size: 26px;
+    cursor: pointer;
+    background-color: dimgray;
+    height: 10vh;
+    align-items: center;
+}
+
+.selectUser:hover {
+    background-color: gray;
+    color:lightgray;
+}
+
+.userNav {
+    height: 100%;  
+    width: 15%;  
+    position: fixed; 
+    z-index: 1; 
+    top: 80px; 
+    left: 0; 
+    background-color:#232323; 
+    transition: .5s ease; 
+    overflow-x: hidden; 
+    align-items: center;
+}
